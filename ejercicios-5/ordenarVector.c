@@ -32,7 +32,7 @@ int ordenarVector(int v[]){
                 aux = v[i];
                 v[i] = v[j];
                 v[j] = aux;
-            }
+            } 
             
         }
         
